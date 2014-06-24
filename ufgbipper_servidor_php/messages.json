@@ -1,0 +1,21 @@
+{
+	"messages": [
+		{
+			"sender":"Biblioteca",
+			"date":"22-01-14",
+			"message":"Devolva os livros ate amanha."
+		},
+		
+		{
+			"sender":"Restaurante Reuni",
+			"date":"22-01-14",
+			"message":"Estamos com promoçao em sanduiches."
+		}, 
+		
+		{
+			"sender":"Secretaria",
+			"date":"22-01-14",
+			"message":"Estaremos funcionando ate as 18h."
+		}	
+	]
+}
